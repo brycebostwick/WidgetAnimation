@@ -46,7 +46,7 @@ struct WidgetEntryView : View {
         // Hardcoded frame count: we are showing 8 frames per second, and
         // we need to show at least 2 seconds' worth of frames (because
         // of the periodic nature of our blinking timer view, which blinks
-        // on for a second, then of for a second). 8 * 2 = 16 total frames
+        // on for a second, then off for a second). 8 * 2 = 16 total frames
         let frameCount = 16
 
         // Animate at 8 frames per second
