@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.widgetkit-extension</string>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Custom-Regular.otf</string>
+		<string>CatFont0-Regular.ttf</string>
+		<string>CatFont1-Regular.ttf</string>
+		<string>CatFont2-Regular.ttf</string>
+		<string>CatFont3-Regular.ttf</string>
+		<string>CatFont4-Regular.ttf</string>
+		<string>CatFont5-Regular.ttf</string>
+		<string>CatFont6-Regular.ttf</string>
+		<string>CatFont7-Regular.ttf</string>
+		<string>CatFont8-Regular.ttf</string>
+		<string>CatFont9-Regular.ttf</string>
+		<string>CatFont10-Regular.ttf</string>
+		<string>CatFont11-Regular.ttf</string>
+		<string>CatFont12-Regular.ttf</string>
+		<string>CatFont13-Regular.ttf</string>
+		<string>CatFont14-Regular.ttf</string>
+		<string>CatFont15-Regular.ttf</string>
+	</array>
+</dict>
+</plist>

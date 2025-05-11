@@ -1,0 +1,11 @@
+framework module ClockHandRotationEffect {
+  umbrella header "ClockHandRotationEffect.h"
+
+  export *
+  module * { export * }
+}
+
+module ClockHandRotationEffect.Swift {
+    header "ClockHandRotationEffect-Swift.h"
+    requires objc
+}
